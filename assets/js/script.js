@@ -1,7 +1,7 @@
 let itemContainer=document.querySelector('#item-container');
 let items=[{
     id:'001',
-    image:'./img/tshirt1.jpg',
+    image:'./assets/img/tshirt1.jpg',
     company:'Puma',
     title:'Pure Cotton Printed T-shirts',
     dis_price:'549',
@@ -10,7 +10,7 @@ let items=[{
 },
 {
     id:'002',
-    image:'./img/tshirt2.jpg',
+    image:'./assets/img/tshirt2.jpg',
     company:'Shirts',
     title:'Pure Cotton Printed Shirts',
     dis_price:'549',
@@ -19,7 +19,7 @@ let items=[{
 },
 {
     id:'003',
-    image:'./img/tshirt3.jpg',
+    image:'./assets/img/tshirt3.jpg',
     company:'Jeans',
     title:'Pure Cotton Printed Jeans',
     dis_price:'549',
@@ -28,7 +28,7 @@ let items=[{
 },
 {
     id:'004',
-    image:'./img/tshirt4.jpg',
+    image:'./assets/img/tshirt4.jpg',
     company:'Jeans',
     title:'Pure Cotton Printed Jeans',
     dis_price:'549',
@@ -36,7 +36,7 @@ let items=[{
     discount:'50%'
 },{
     id:'005',
-    image:'./img/tshirt5.jpg',
+    image:'./assets/img/tshirt5.jpg',
     company:'Kurta Sets',
     title:'Pure Cotton Printed Kurta Sets',
     dis_price:'549',
@@ -44,7 +44,7 @@ let items=[{
     discount:'50%'
 },{
     id:'006',
-    image:'./img/tshirt6.jpg',
+    image:'./assets/img/tshirt6.jpg',
     company:'Kurtas',
     title:'Pure Cotton Printed Kurtas',
     dis_price:'549',
